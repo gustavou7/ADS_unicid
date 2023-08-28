@@ -1,0 +1,35 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 28/08/2023
+Var
+    velocidade : real
+
+
+Inicio
+Escreva ("digite a velocidade do veículo em km/h: ")
+Leia (velocidade)
+se (velocidade<=40) entao
+   escreva ("Parabéns o limite não foi ultrapassado, você não foi multado ")
+   senao
+   se (velocidade>=41) e (velocidade<=60) entao
+   escreva ("O limite de velocidade foi ultrapassado.  você foi multado em 4 pontos e 150$")
+   fimse
+   fimse
+
+se (velocidade<=40) entao
+   senao
+   se (velocidade>=61) e (velocidade<=80) entao
+   escreva ("O limite de velocidade foi ultrapassado. você foi multado em 6 pontos e 250$")
+   fimse
+   fimse
+
+se (velocidade<=40) entao
+   senao
+   se (velocidade>=81) e (velocidade<=200) entao
+   escreva ("O limite de velocidade foi ultrapassado.  você foi multado em 8 pontos e 560$")
+   fimse
+   fimse
+Fimalgoritmo
