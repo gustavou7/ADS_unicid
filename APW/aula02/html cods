@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="portuguese">
+<head>
+<!my first coding>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Anotações</title>
+</head>
+<body style="background-color:rgb(255, 255, 255)">
+    <!txts do lerolero>
+    <div>
+    <h1> Uma Página de Anotações</h1>
+        <p> Percebemos, cada vez mais, que o
+            desenvolvimento contínuo de distintas
+            formas de atuação maximiza as
+            possibilidades por conta do sistema de
+            formação de quadros que corresponde às
+            necessidades.</p>
+            <h1>Visit Unicid </h1>
+    </div>
+    <div>
+<p><a href="https://www.unicid.edu.br/">Unicid <unicid class="edu br">!</a></p>
+</div>
+    <!img >
+    <div>
+    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/styles/article_featured_standard/public/Padro-Artigo-GCP-770x400%20-%202022-08-10T133920.011.jpg?itok=9CbdsMad";>
+    </div>
+    <div>
+    <p> O que é um sistema de plantio?
+            Entre as principais fases do processo produtivo de uma lavoura, estão o preparo do solo e a semeadura. Nessas fases iniciais, em que a terra não foi semeada, preparar o caminho para que ela se desenvolva em toda a sua plenitude é essencial. Ao longo do tempo, foram desenvolvidas algumas formas de plantio diferentes, sempre com o objetivo de promover o melhor desempenho das lavouras, considerando também as fases subsequentes — da cultura até a colheita. O modo como o preparo do solo e a semeadura são realizados pode ser chamado de “sistema de plantio” em que o produtor vai trabalhar em sua cultura. Entretanto, existem modelos diferentes adotados pelos agricultores, principalmente em razão das vantagens que cada um oferece.
+            
+            Embora cada sistema possa ser mais adequado a determinadas culturas, de modo geral não existe uma especificidade entre um dado sistema de plantio e uma lavoura específica.</p>
+    </p>
+        </div>  
+            <!Séries e Filmes Fav>
+    <div>      
+            <table border="1">
+                <tr>
+                    <th>Filmes e Séries</th>
+                    <th>Personagem</th>
+                    <th>Ano de Lançamento</th>
+                </tr>
+                <tr>
+                    <td>GOT</td>
+                    <td>Daenerys Targaryen</td>
+                    <td>2011 </td>
+                </tr>
+                <tr>
+                    <td>B99</td>
+                    <td>Jake Peralta</td>
+                    <td>2013</td>
+                </tr>
+                <tr>
+                    <td>Suits</td>
+                    <td>Harvey Specter</td>
+                    <td>2011</td>
+                </tr>
+            </table>
+        </div>
+            <!Músicas Fav>
+            <div>
+            <h2>Lista Desordenada
+            <ul>
+                    <li>Deusa da Ostentação</li>
+                    <li>Clickbait</li>
+                    <li>Fé na Maluca</li>
+                    <li>Desbloqueado</li>
+                    <li>Melhor Opção 2</li>
+                    <li>Meio Termo</li>
+                    <li>Garupa 2</li>
+                    <li>60k</li>
+                    <li>Fogo na Babilônia</li>
+                    <li>Final de Ano</li>
+
+                </ul>
+            </div> 
+                <!video introdução>
+            <div>
+                <param name="Curso HTML para INICIANTES 1/4"/>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/1LJGQb_pn6k?si=snNiNCtlo-6aXSpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <div>      
+                <p><a href="https://w3schools.com/html/default.asp">Em caso de Dúvidas...</body>
+            </div>       
+</html>
