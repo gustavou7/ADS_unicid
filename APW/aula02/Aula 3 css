@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+	float comprimento, altura, largura, volume;
+	
+	printf("Insira o Valor de do Comprimento:");
+     scanf("%f", &comprimento);
+	printf("Insira o Valor de do Altura:");
+	 scanf("%f", &altura);
+	printf("Insira o Valor de do Volume:");
+	 scanf("%f", &volume);
+    
+    volume = comprimento * altura * largura;
+    
+    printf("Volume total da caixa = %f", volume);
+    
+    return 0;
+}
